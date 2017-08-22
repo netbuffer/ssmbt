@@ -4,7 +4,7 @@
         <groupId>cn.com.ttblog</groupId>
 		<artifactId>ssmbt-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-        <relativePath>../ssmbt-parent/pom.xml</relativePath>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>ssmbt-web</artifactId>
@@ -13,6 +13,16 @@
 	<url>http://maven.apache.org</url>
 	<build>
 		<finalName>ssmbt-web</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+				</configuration>
+			</plugin>
+		</plugins>
 	</build>
 	<dependencies>
 		<dependency>
