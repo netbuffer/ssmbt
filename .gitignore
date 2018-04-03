@@ -1,4 +1,3 @@
-!/.gitignore
 /target/
 /catalina.base_IS_UNDEFINED/
 /.classpath
@@ -6,3 +5,5 @@
 /.settings/
 /reports
 /.pmd
+.idea
+*.iml
