@@ -7,6 +7,9 @@
 
 ![ssm多模块](/ssmbt-web/src/main/webapp/image/ssm_module.png)
 
+# 微信扫码使用gitee工具
+![gitee工具](https://s1.ax1x.com/2018/08/10/P60MMF.jpg)
+
 # other projects
 > `sssbootstrap_table(spring+springmvc+spring data jpa)` github:[https://github.com/netbuffer/sssbootstrap_table](https://github.com/netbuffer/sssbootstrap_table)`/`git@osc:[https://gitee.com/netbuffer/sssbootstrap_table](https://gitee.com/netbuffer/sssbootstrap_table)  
 
